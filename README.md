@@ -82,7 +82,7 @@ DEPLOY EASILY THE-MASTER-MDX-V1
 
 ---
 
- ### DOWNLOAD FILE HAIKO-MDX-v1
+ ### DOWNLOAD FILE THE-MASTER-MDX-v1
 
 <p align="center">
   <a href="https://github.com/THEMASTER5093/THE-MASTER-MDX-V1/archive/refs/heads/main.zip">
